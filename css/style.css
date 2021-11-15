@@ -393,6 +393,7 @@ div #logobar img{
 #navbar ul li{
 display: block;
 border-bottom: 1px solid #9ea1a7;
+padding-left: 10px;
 }
 #close-icon{
     float: right; 
